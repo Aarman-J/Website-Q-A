@@ -19,7 +19,7 @@ prompt = st.text_input('Ask me anything!')
 
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "xxxxxxxxxx"
 urls = [
     'https://www.mosaicml.com/blog/mpt-7b',
     'https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models',
